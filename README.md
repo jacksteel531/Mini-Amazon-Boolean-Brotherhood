@@ -15,7 +15,9 @@ Team Assignments
 - Products Guru [Responsible for Products]: Beau Lilly
 - Carts Guru [Responsible for Cart & Order]: Jack Steel
 - Sellers Guru [Responsible for Inventory & Order Fulfillment]: Henry Irwin
-- Social Guru [Responsible for Feedback & Messaging]: Annie Carey 
+- Social Guru [Responsible for Feedback & Messaging]: Annie Carey
+
+Repository Link: https://github.com/jacksteel531/Mini-Amazon-Boolean-Brotherhood/blob/main/README.md
 
 ## Progress Update
 
