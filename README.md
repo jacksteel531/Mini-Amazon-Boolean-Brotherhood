@@ -19,19 +19,19 @@ Team Assignments
 
 Repository Link: https://github.com/jacksteel531/Mini-Amazon-Boolean-Brotherhood
 
-## Progress Update
+### Progress Update
 
-### Users Guru (Devon)
+#### Users Guru (Devon)
 - ,
 
-### Products Guru (Beau)
+#### Products Guru (Beau)
 - 
 
-### Carts Guru (Jack)
+#### Carts Guru (Jack)
 - 
 
-### Sellers Guru (Henry)
+#### Sellers Guru (Henry)
 - 
 
-### Social Guru (Annie)
+#### Social Guru (Annie)
 - 
