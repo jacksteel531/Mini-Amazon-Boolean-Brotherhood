@@ -17,7 +17,7 @@ Team Assignments
 - Sellers Guru [Responsible for Inventory & Order Fulfillment]: Henry Irwin
 - Social Guru [Responsible for Feedback & Messaging]: Annie Carey
 
-Repository Link: https://github.com/jacksteel531/Mini-Amazon-Boolean-Brotherhood/blob/main/README.md
+Repository Link: https://github.com/jacksteel531/Mini-Amazon-Boolean-Brotherhood
 
 ## Progress Update
 
