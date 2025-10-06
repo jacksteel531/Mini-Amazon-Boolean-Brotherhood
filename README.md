@@ -58,5 +58,9 @@ Repository Link: https://github.com/jacksteel531/Mini-Amazon-Boolean-Brotherhood
 - Design a part of the product card such that each contains a list of the reviews for the product (with buyer information) and the average rating
 - Design a section on the product card for buyers in addition to above to write a review for the product
 - Laid out functionality for filtering reviews for rating or timestamp
-- (Optional) designed a possible messaging page that can be accessed through an order confirmation for each product in the order confirmation  
+- (Optional) designed a possible messaging page that can be accessed through an order confirmation for each product in the order confirmation
+
+#### Overall Update
+- Most work we have completed this week dealt with preparing our codebase, laying out our design, and considering edge cases for each feature on the mini-Amazon application
+- Looking towards the next milestone, we hope to complete (or mostly complete) the implementation for each feature of each guru's design list above
 
