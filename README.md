@@ -10,8 +10,26 @@ Team Name: Boolean Brotherhood
 
 # Milestone Two
 
+Team Assignments
 - Users Guru [Responsible for Account & Purchases]: Devon L'Esperance 
 - Products Guru [Responsible for Products]: Beau Lilly
 - Carts Guru [Responsible for Cart & Order]: Jack Steel
 - Sellers Guru [Responsible for Inventory & Order Fulfillment]: Henry Irwin
 - Social Guru [Responsible for Feedback & Messaging]: Annie Carey 
+
+## Progress Update
+
+### Users Guru (Devon)
+- ,
+
+### Products Guru (Beau)
+- 
+
+### Carts Guru (Jack)
+- 
+
+### Sellers Guru (Henry)
+- 
+
+### Social Guru (Annie)
+- 
